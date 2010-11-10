@@ -1,0 +1,26 @@
+<property_sheet_list>
+ <portal_type id="Deduction">
+  <item>Deduction</item>
+ </portal_type>
+ <portal_type id="Cheque">
+  <item>Cheque</item>
+ </portal_type>
+ <portal_type id="Bill">
+  <item>Bill</item>
+ </portal_type>
+ <portal_type id="Adjustment Bill">
+  <item>AdjustmentBill</item>
+ </portal_type>
+ <portal_type id="Fund Diversion">
+  <item>FundDiversion</item>
+ </portal_type>
+ <portal_type id="Budget Item">
+  <item>BudgetItem</item>
+ </portal_type>
+ <portal_type id="Simple Receipt">
+  <item>SimpleReceipt</item>
+ </portal_type>
+ <portal_type id="Sub Bill">
+  <item>SubBill</item>
+ </portal_type>
+</property_sheet_list>

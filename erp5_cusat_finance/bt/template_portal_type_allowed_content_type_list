@@ -1,0 +1,14 @@
+Bills | Bill
+Bills | Simple Receipt
+Bills | Adjustment Bill
+Budget Allocations | Budget Item
+Budget Allocations | Fund Diversion
+Bill | Sub Bill
+Bill | Cheque
+Bill | Deduction
+Simple Receipt | Sub Bill
+Simple Receipt | Cheque
+Simple Receipt | Deduction
+Adjustment Bill | Sub Bill
+Adjustment Bill | Cheque
+Adjustment Bill | Deduction

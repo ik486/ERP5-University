@@ -1,0 +1,36 @@
+<allowed_content_type_list>
+ <portal_type id="Deduction">
+ </portal_type>
+ <portal_type id="Fund Diversion">
+ </portal_type>
+ <portal_type id="Bills">
+  <item>Bill</item>
+  <item>Simple Receipt</item>
+  <item>Adjustment Bill</item>
+ </portal_type>
+ <portal_type id="Budget Allocations">
+  <item>Budget Item</item>
+  <item>Fund Diversion</item>
+ </portal_type>
+ <portal_type id="Budget Item">
+ </portal_type>
+ <portal_type id="Cheque">
+ </portal_type>
+ <portal_type id="Bill">
+  <item>Sub Bill</item>
+  <item>Cheque</item>
+  <item>Deduction</item>
+ </portal_type>
+ <portal_type id="Simple Receipt">
+  <item>Sub Bill</item>
+  <item>Cheque</item>
+  <item>Deduction</item>
+ </portal_type>
+ <portal_type id="Sub Bill">
+ </portal_type>
+ <portal_type id="Adjustment Bill">
+  <item>Sub Bill</item>
+  <item>Cheque</item>
+  <item>Deduction</item>
+ </portal_type>
+</allowed_content_type_list>
